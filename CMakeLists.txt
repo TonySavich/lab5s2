@@ -9,7 +9,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 
 
-add_executable("${PROJECT_NAME}" addLab1.cpp
+add_executable("${PROJECT_NAME}" lab5.cpp
 									
 					
 )
